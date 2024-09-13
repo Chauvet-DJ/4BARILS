@@ -2,12 +2,12 @@
 
 ## Software Versions
 
-[V3.01a - 4BAR ILS](https://github.com/Chauvet-DJ/4BARILS/blob/b1f1c25ae30525edb8667142f88ecd5986959b5e/Firmware/V3.01a_06-30-24.zip)
+[V3.01a - 4BAR ILS](https://github.com/Chauvet-DJ/4BARILS/blob/6201937fb3f02440232201c27747ff1283ce2b66/Firmware/V3.01a_09-04-24.zip)
 - ***NOTE: Use this version for products with serial number 0424002021 and up.***
 - Changed the D-Fi detection method from voltage detection to software detection
 - Updated the software file name
 
-[V3.01b - 4BAR ILS](https://github.com/Chauvet-DJ/4BARILS/blob/b1f1c25ae30525edb8667142f88ecd5986959b5e/Firmware/V3.01b_06-30-24.zip)
+[V3.01b - 4BAR ILS](https://github.com/Chauvet-DJ/4BARILS/blob/6201937fb3f02440232201c27747ff1283ce2b66/Firmware/V3.01b_09-04-24.zip)
 - ***NOTE: Use this version for products with serial number 0424002020 and below.***
 - Changed the D-Fi detection method from voltage detection to software detection
 
